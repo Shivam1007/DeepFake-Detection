@@ -13,7 +13,7 @@ Example of extracted frames are as follows:
 ![alt text](https://github.com/HardSavani/DeepFake-Detection/blob/main/illustration.jpeg?raw=true)
 
 ## Data Augmentation:
-Data Augmentation is applied by adding noise to the images for classifiers to learn better. Various noises were tried like Gausssian, Speckle and sp noise. Noise useful here was observed to gaussian which was meaningfully blurring the image, rest are not useful here.
+Data Augmentation is applied by adding noise to the images for the respective classifiers to learn better. Various noises were tried like Gausssian, Speckle and sp noise. Noise useful here was observed to gaussian which was meaningfully blurring the image, rest are not useful here.
 
 ## Dimensionality Reduction:
 
